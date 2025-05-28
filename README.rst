@@ -130,7 +130,7 @@ Installation
 
 .. code:: bash
 
-    pip install scikit-gof
+    pip install git+https://github.com/artessen/scikit-gof.git
 
 Requires recent versions of Python (> 3), NumPy (>= 1.10) and SciPy.
 
